@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm George Hernandez
 
-<!--
-**jay19891208/jay19891208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **Apex Prairie Holdings**. I build products that run real operations, and I run them like businesses.
 
-Here are some ideas to get you started:
+### Ventures & products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Apex Prairie Quality Systems**: on-site quality walkthroughs with photo-backed corrective-action reports delivered in 24 hours.
+- **Apex Quality Hub**: licensed operations software: process designer, inspections, timed work orders, independent approval, rework, time tracking, lot inventory, audit trail.
+- **Dealer Rank Miami**: ranking platform for verified car dealers in Miami-Dade and Broward.
+- **PCH HUB**: production and quality platform for a modular home plant. Work orders per house, QC approvals, labor hours, QR badges, live line boards. Windows, Android, iOS, web.
+- **Mobile games** (iOS & Android): Tapbird Adventure · Ashen Throne · Iron Eclipse · Little Wonders · Toy Studio.
+- **Web**: brand and e-commerce sites, including Puma Rose.
+
+### Stack
+
+`TypeScript` · `React Native / Expo` · `Supabase / PostgreSQL` · `.NET` · `Tauri` · `Cloudflare` · `Netlify`
+
+### How I work
+
+Start on the floor. Talk to the people doing the work. Ship tools they actually use.
+
+---
+
+Code lives in private repositories. Happy to talk business.
